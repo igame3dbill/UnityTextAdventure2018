@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ed573013e06f0c543b1b12d2be94113d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: murgaQuarian
+  fontNames:
+  - murgaQuarian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54d10af191de0304c87ae209df8d3774, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
